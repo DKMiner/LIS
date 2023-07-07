@@ -15,7 +15,7 @@ The program will ask for a name, an email (used for sending emails) and then a p
 
 **How to get an app password**
 
-Go to [myaccount.google.com](myaccount.google.com), login into the email you entered for LIS program, and choose "Security". Enable 2-step verification from there if you already haven't turned it on. The on the main page, in "Security" tab again, under "How you sign in to Google" choose 2-Step Verification (not 2-Step Verification phones), then scroll all the way down to find "App passwords". In the new page, choose "select app", then choose "other (custom name)". Enter a name for you passwrod, and click "Generate". Done! You can now use this for this LIS program so it will be able to send emails with the entered email.
+Go to [myaccount.google.com](https://myaccount.google.com), login into the email you entered for LIS program, and choose "Security". Enable 2-step verification from there if you already haven't turned it on. The on the main page, in "Security" tab again, under "How you sign in to Google" choose 2-Step Verification (not 2-Step Verification phones), then scroll all the way down to find "App passwords". In the new page, choose "select app", then choose "other (custom name)". Enter a name for you passwrod, and click "Generate". Done! You can now use this for this LIS program so it will be able to send emails with the entered email.
 
 **Known issues**
 
