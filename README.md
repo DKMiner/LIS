@@ -25,3 +25,4 @@ This code will hve problems with system path when you run in inside VS Code or a
 **Credits**
 
 Thanks to ThePycoach for their email sending code. Used it as a function in this program. The code can be found in [here](https://github.com/thepycoach/automation/blob/main/Send%20Emails.py)
+My friend [Light7734](https://github.com/Light7734), for giving me advice on coding, teaching me stuff, and reviewing my code. (Still didn't do as he told me on changing this code, lol)
