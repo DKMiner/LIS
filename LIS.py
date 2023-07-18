@@ -799,7 +799,6 @@ def handle_input(c):
     elif c=="2":
         clean()
         while True:
-            clean()
             answer=input("What do you want to do?\n"
                          "1. View all tests\n"
                          "2. Add a new test\n"
