@@ -24,7 +24,7 @@ Go to [myaccount.google.com](https://myaccount.google.com), login into the email
 
 **Known issues**
 
-This code will hve problems with system path when you run in inside VS Code or any other coding application/IDE. ***It must be running using a terminal***
+This code will have problems with system path when you run in inside VS Code or any other coding application/IDE. ***It must be running using a terminal***
 
 
 
