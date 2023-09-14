@@ -28,6 +28,15 @@ This code will hve problems with system path when you run in inside VS Code or a
 
 
 
+**To-do**
+
+1. Probably use "num_ask()" for all inputs
+2. Change database from txt to json or something better
+3. Data encryption
+4. GUI
+
+
+
 **Credits**
 
 1. ThePycoach for their email sending code. Used it as a function in this program. The code can be found in [here](https://github.com/thepycoach/automation/blob/main/Send%20Emails.py)
